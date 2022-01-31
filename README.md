@@ -12,6 +12,7 @@ How to run the Script.
 Keep the index.jpg image and the script on the same location and open command prompt or the linux terminal and type " python Main_page.py" and press enter. image
 
 The default id and password is
+
 Username: Admin
 Password: Admin
 ![Main_page](https://user-images.githubusercontent.com/79050624/151778624-5a12aec2-bc61-4116-85aa-3c3a08c4f8a5.png)
