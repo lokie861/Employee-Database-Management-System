@@ -1,6 +1,10 @@
 # Employee-Database-Management-System
 The Employee database management system is made of python language and mariadb as database.
 
+Install mariadb and create an database named as **Project_db** and create an table named Employee oru copy paste the below command,
+
+_create table Employee(Id int(4) primary key,Name varchar(30),DOB date,Age int(2),Gender varchar(10),Blood_group varchar(15), Email varchar(45), Number varchar(13), City varchar(25), Nationality varchar(20),Department varchar(35));_
+
 Python packages need to be Installed before running the Main_page.py:
 tkinter
 tkinter.ttk
