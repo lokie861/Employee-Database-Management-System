@@ -1,0 +1,7 @@
+mysql-connector-python==8.0.27
+pygubu==0.18.1
+requests==2.26.0
+tk==0.1.0
+tkcalendar==1.6.1
+mysql-connector-python==8.0.27
+
